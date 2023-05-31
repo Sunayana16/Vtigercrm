@@ -1,0 +1,15 @@
+independent and deoendent xpath:
+ 
+We write the xpath for Dynamc elelement based on the fxed element
+
+
+Steps:
+ 
+1.identify which is fixed and dynamic element
+2.wrte xpath for fxed element
+3.update the xpath by bacward traversng (/..) to fnd commen parent for fxed and dynamc element
+4.update the xpath by wrtng xpath fro dynamc element
+
+Drawback
+1.when fixed element is having duplicates
+
