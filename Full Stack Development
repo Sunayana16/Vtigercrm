@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Order List</title>
+</head>
+<body>
+<pre>
+<h2><mark>Full Stack Development</mark></h2>
+<ol>
+<li><b>HTML</b></li>
+<li><b>CSS</b></li>
+<li><b>Java Script</b></li>
+<li><b>Bootstrap</b></li>
+<li><b>Framework</b></li>
+<li><b>ReactJs</b></li>
+<li><b>SQL</b></li>
+<li><b>MySql</b></li>
+<li><b>Java</b></li>
+<li><b>J2EE</b></li>
+</ol>
+<dependencies>
+</pre>
+</body>
+</html>
