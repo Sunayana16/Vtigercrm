@@ -1,0 +1,58 @@
+TakeScreenshot:
+
+why do we Tae creenshot
+1.Adding to defect report 
+2.for beter analysis of test script faluire
+
+two types of ss:
+1.WebElement
+2.Webpage
+
+outputytpe: it is an interface which is holding 3 var(file base64 byte)
+ 
+ss can be stored n three forms:
+1.file
+2.base64
+3.byte
+
+deleteOnExit(): deleteOnExit() is going to and delete ss or data whenever program stops execution 
+
+steps :
+1.create one folder
+2.create object of file
+3.write absolute path for folder :File("./Images/acti.png")
+4.rename temo fle to dest fle
+5.refresh the project
+
+
+
+to see where the ss are saved :select fel rght clc goto propertes clc on loc :C:\Users\91773\eclipse-workspace\Selenium\Images
+
+
+to create folder automatically:(common io)
+1.assgn folder name
+2.call class FileUtils: tns class from pacage io
+3.FileUtils.copyFile(tempfile, destfile): copyfle wll transfer the data from temp fle to dest fle
+
+
+local date and tme: t s class whch wll capture localdatetme wth.now
+
+
+______________________________________________________________________________________________________
+
+assgnment: 23-5-2023:
+1)3 webpage ss and flename shoul be page
+2)3 sngle elements ss and flename shoul be Element
+
+AssignmentElement1
+
+
+
+
+
+
+
+
+
+
+
